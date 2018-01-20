@@ -1,0 +1,14 @@
+{
+  "name": "prescient",
+  "version": "0.0.0",
+  "description": "Authentication in Node",
+  "main": "hash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "argon2": "^0.17.0"
+  }
+}
